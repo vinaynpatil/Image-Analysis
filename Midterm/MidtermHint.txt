@@ -1,0 +1,2 @@
+* Apply same preprocessing to puzzle piece and the puzzle.
+* Follow the hint in the question
